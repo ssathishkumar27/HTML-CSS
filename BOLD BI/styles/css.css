@@ -1,0 +1,108 @@
+
+
+#first:h2{
+    font-size: 25px;
+}
+#first:p{
+    font-size: 16px;
+}
+#form:h1{
+    font-size: 26px;
+}
+#form:p{
+    font-size: 16px;
+}
+.agree{
+    font-size: 14px;
+}
+.Terms
+{
+    font-size: 14px;
+    color: #FF4800;
+}
+#form{
+    padding: 10.5px;
+    float:right;
+}
+#office:h1{
+    font-size: 36px;
+    font-family: "Caros Medium", Caros;
+}
+#office:h2{
+    font-size: 19px;
+    font-family: "Caros Medium", Caros;
+}
+
+#office:p{
+    font-size: 16px;
+    font-family: "Caros Medium", Caros;
+}
+
+#submit{
+    background-color: #FF4800;
+    border-color: #FF4800;
+    padding: 10px 30px;
+    font-family: "Caros Medium", Caros;
+}
+ul{
+    display: inline;
+    padding: 20px;
+    width: 20px;
+    
+    background-color: #F1F9FF;
+    color: black;
+}
+li{
+    display: inline;
+    padding: 20px;
+
+    background-color: #F1F9FF;
+    color: black;
+}
+li:hover{
+    background-color:rgb(71, 65, 65);
+    
+}
+#mobile_number{
+    width: 25%;
+}
+#chaticon{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+#office{
+    display: inline-block;
+}
+#foot{
+    margin: 0px auto;
+}
+body{
+    font-family: sans-serif;
+}
+#end{
+    color:#FF4800 ;
+}
+#end:hover{
+    color: chocolate;
+}
+#uparrow{
+    position: relative;
+    bottom: 0;
+    right :0;
+}
+.company_image{
+    float: left;
+    margin: 15px;
+}
+.first{
+    float: left;
+    width: 40%;
+    margin: 5%;
+}
+.break{
+    clear: both;
+}
+#lasticon{
+    padding-left: 500px;
+}
